@@ -10,6 +10,8 @@ import com.tutorialninja.qa.pages.HomePage;
 import com.tutorialninja.qa.pages.SearchPage;
 import com.tutorialninja.tnp.baseclass.Base;
 
+//Updated comment
+
 public class SearchTest extends Base {
 	
 	public WebDriver driver;
